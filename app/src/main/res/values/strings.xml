@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geuss_the_phrase2</string>
+    <string name="preference_file_key">com.example.geuss_the_phrase2</string>
+</resources>
